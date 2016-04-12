@@ -12,3 +12,4 @@ module.exports = {
     password: "FB PW"
 }
 ```
+Running on a droplet w/ <a href = "https://github.com/Unitech/pm2"> pm2</a>.
