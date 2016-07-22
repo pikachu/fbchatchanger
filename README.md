@@ -1,7 +1,7 @@
 # fbchatchanger
 Changes colors of fb chat
 
-When you message me a color on facebook, now the colors change :)
+When you message me a color on facebook, now the colors change.
 
 Made w nodejs. S/o to Sashank.
 
@@ -13,3 +13,5 @@ module.exports = {
 }
 ```
 Running on a droplet w/ <a href = "https://github.com/Unitech/pm2"> pm2</a>.
+
+Run with `pm2 start index.js --restart-delay 1800000` to restart the program every 30 minutes (memory).
