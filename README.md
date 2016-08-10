@@ -12,6 +12,12 @@ module.exports = {
     password: "FB PW"
 }
 ```
+Run `npm install`
+
 Running on a droplet w/ <a href = "https://github.com/Unitech/pm2"> pm2</a>.
 
 Run with `pm2 start index.js --restart-delay 1800000` to restart the program every 30 minutes (memory).
+
+OR
+
+Run with `node index.js`
