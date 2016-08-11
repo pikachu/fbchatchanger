@@ -7,7 +7,7 @@ Made w nodejs. S/o to Sashank.
 
 # Personal Installation
 1. run `git clone https://github.com/imparikh/fbchatchanger`
-2. add a config.js file in the directory and make it look like this
+2. add a `config.js` file in the directory and make it look like this
 ```
 module.exports = {
     username: "FB EMAIL",
